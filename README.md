@@ -8,6 +8,7 @@ Hlavní výzvou bylo najít dostatečné množství dat pro zpracování projekt
 Data za rok 2025 obsahují pouze údaje do dubna 2025, je to z důvodu, že více informací nebylo v době zpracování zveřejněno. Každá strana projektu v názvu obsahuje i detail rozsahu let, které pokrývá.
 
 Pro zpracování byla využita data z následujících webových stránek:
+
 https://www.trade.gov/international-travel-receipts-and-payments-program,
 
 https://www.trade.gov/i-94-arrivals-historical-data,
